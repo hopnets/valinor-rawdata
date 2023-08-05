@@ -1,5 +1,5 @@
 # valinor-rawdata
-Raw Redis datasets containing the measurement results of Valinor NSDI '23 paper
+Raw Redis datasets containing the measurement results of [Valinor NSDI '23 paper](https://www.usenix.org/conference/nsdi23/presentation/sharafzadeh).
 
 ## Getting Started
 The dataset is stored in Zenodo and can be accessed in two ways:
